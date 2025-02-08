@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mastering Critical SKILLS in Data Structures Using C++</title>
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 0; background-color: #f9f9f9; color: #333;">
     <div style="max-width: 800px; margin: 0 auto;">
