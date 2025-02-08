@@ -67,7 +67,7 @@
             <ol style="padding-left: 20px;">
                 <li><strong>Clone the Repository:</strong>
                     <pre style="background-color: #eaeaea; padding: 10px; border-radius: 5px;">
-git clone https://github.com/your-username/data-structures-cpp-playground.git
+git clone https://github.com/SE-MahmoudAbdelaal/Mastering-critical-SKILLS-in-Data-Structures-using-CPP.git
                     </pre>
                 </li>
                 <li><strong>Navigate to Topics:</strong> Explore the folders to find the topic you're working on.</li>
