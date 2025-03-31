@@ -1,0 +1,4 @@
+"C:\Users\mahmoud.sabdelaal\AppData\Local\JetBrains\CLion 2024.3.5\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/mahmoud.sabdelaal/AppData/Local/JetBrains/CLion 2024.3.5/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Learning-Courses\Mastering-critical-SKILLS-in-Data-Structures-using-CPP\Trees -B D:\Learning-Courses\Mastering-critical-SKILLS-in-Data-Structures-using-CPP\Trees\cmake-build-debug
+-- Configuring done (0.8s)
+-- Generating done (0.2s)
+-- Build files have been written to: D:/Learning-Courses/Mastering-critical-SKILLS-in-Data-Structures-using-CPP/Trees/cmake-build-debug
